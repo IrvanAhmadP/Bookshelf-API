@@ -15,7 +15,7 @@
     "HapiJS", "API"
   ],
   "author": "Irvan Ahmad Prasetya",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/IrvanAhmadP/Bookshelf-API/issues"
   },
