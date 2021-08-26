@@ -72,13 +72,11 @@ Body request:
 
 `GET /books`
 
-Query parameters
+Query parameters:
 
-```txt
-name: string [optional]
-reading: boolean [optional]
-finished: boolean [optional]
-```
+- `name`: string (optional)
+- `reading`: boolean (optional)
+- `finished`: boolean (optional)
 
 ### Menampilkan Detail Buku
 
